@@ -1,0 +1,180 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Terry",
+      "lastName": "Medhurst",
+      "age": 50,
+      "genderId": "1",
+      "email": "atuny0@sohu.com",
+      "phone": "+637916758914",
+      "birthDate": "2000-12-25",
+      "image": "https://robohash.org/hicveldicta.png",
+      "bloodGroup": "A−",
+      "companyName": "Blanda-O'Keefe",
+      "companyDepartment": "Marketing",
+      "companyTitle": "Help Desk Operator"
+    },
+    {
+      "id": 2,
+      "firstName": "Sheldon",
+      "lastName": "Quigley",
+      "age": 28,
+      "genderId": "2",
+      "email": "bingley@plala.org",
+      "phone": "+78131177139",
+      "birthDate": "2003-08-02",
+      "image": "https://robohash.org/doloremquesintcorrupti.png",
+      "bloodGroup": "O+",
+      "companyName": "Aufderhar-Cronin",
+      "companyDepartment": "Services",
+      "companyTitle": "Senior Cost Accountant"
+    },
+    {
+      "id": 3,
+      "firstName": "Terrill",
+      "lastName": "Hills",
+      "age": 38,
+      "genderId": "3",
+      "email": "rshawe2@51.la",
+      "phone": "+637392927945",
+      "birthDate": "2002-03-04",
+      "image": "https://robohash.org/digissimin",
+      "bloodGroup": "B-",
+      "companyName": "Lindgren LLC",
+      "companyDepartment": "Marketing",
+      "companyTitle": "Mechanical Systems Engineer"
+    },
+    {
+      "id": 4,
+      "firstName": "Miles",
+      "lastName": "Cummerata",
+      "age": 49,
+      "genderId": "2",
+      "email": "yraigatt3@nature.com",
+      "phone": "+879878978978",
+      "birthDate": "1969-01-16",
+      "image": "https://robohash.org/facilisdignissimosdolore.png",
+      "bloodGroup": "B+",
+      "companyName": "Wolff and Sons",
+      "companyDepartment": "Business Development",
+      "companyTitle": "Paralegal"
+    },
+    {
+      "id": 5,
+      "firstName": "Mavis",
+      "lastName": "Schultz",
+      "age": 38,
+      "genderId": "1",
+      "email": "kmeus4@upenn.edu",
+      "phone": "+3722857711911",
+      "birthDate": "1968-11-03",
+      "image": "https://robohash.org/adverovelit.png",
+      "bloodGroup": "O+",
+      "companyName": "Adams Inc",
+      "companyDepartment": "Support",
+      "companyTitle": "Web Developer I"
+    },
+    {
+      "id": 6,
+      "firstName": "Alison",
+      "lastName": "Reichert",
+      "age": 21,
+      "genderId": "3",
+      "email": "jtreleven5@nhs.uk",
+      "phone": "+3515277353642",
+      "birthDate": "1969-07-21",
+      "image": "https://robohash.org/laboriosamfacilisrem.png",
+      "bloodGroup": "A+",
+      "companyName": "D'Amore and Sons",
+      "companyDepartment": "Accounting",
+      "companyTitle": "Civil Engineer"
+    },
+    {
+      "id": 7,
+      "firstName": "Oleta",
+      "lastName": "Abbott",
+      "age": 31,
+      "genderId": "1",
+      "email": "dpettegre6@columbia.edu",
+      "phone": "+626408027111",
+      "birthDate": "1982-02-21",
+      "image": "https://robohash.org/cupiditatererumquos.png",
+      "bloodGroup": "B−",
+      "companyName": "Schimmel, Wilderman and Orn",
+      "companyDepartment": "Product Management",
+      "companyTitle": "Sales Associate"
+    },
+    {
+      "id": 8,
+      "firstName": "Ewell",
+      "lastName": "Mueller",
+      "age": 29,
+      "genderId": "3",
+      "email": "ggude7@chron.com",
+      "phone": "+869462972275",
+      "birthDate": "1964-08-24",
+      "image": "https://robohash.org/quiaharumsapiente.png",
+      "bloodGroup": "A−",
+      "companyDepartment": "Services",
+      "companyName": "Corkery, Reichert and Hodkiewicz",
+      "companyTitle": "Clinical Specialist"
+    },
+    {
+      "id": 9,
+      "firstName": "Demetrius",
+      "lastName": "Corkery",
+      "age": 22,
+      "genderId": "2",
+      "email": "nloiterton8@aol.com",
+      "phone": "+863565909727",
+      "birthDate": "1971-03-11",
+      "image": "https://robohash.org/excepturiiuremolestiae.png",
+      "bloodGroup": "A+",
+      "companyDepartment": "Human Resources",
+      "companyName": "Gorczany Group",
+      "companyTitle": "Community Outreach Specialist"
+    },
+    {
+      "id": 10,
+      "firstName": "Eleanora",
+      "lastName": "Price",
+      "age": 37,
+      "genderId": "1",
+      "email": "umcgourty9@jalbum.net",
+      "phone": "+601844080824",
+      "birthDate": "1958-08-11",
+      "image": "https://robohash.org/aliquamcumqueiure.png",
+      "bloodGroup": "O+",
+      "companyDepartment": "Marketing",
+      "companyName": "Bins Group",
+      "companyTitle": "Senior Sales Associate"
+    }
+  ],
+  "genders": [
+    {
+      "id": "1",
+      "type": "Male"
+    },
+    {
+      "id": "2",
+      "type": "Female"
+    },
+    {
+      "id": "3",
+      "type": "Other"
+    }
+  ],
+  "admin": [
+    {
+      "id": "3",
+      "profileImg": "https://pub-static.fotor.com/assets/projects/pages/d5bdd0513a0740a8a38752dbc32586d0/fotor-03d1a91a0cec4542927f53c87e0599f6.jpg",
+      "profileName": "Dev"
+    },
+    {
+      "id": "4",
+      "profileName": "dev",
+      "profileImg": "https://pub-static.fotor.com/assets/projects/pages/d5bdd0513a0740a8a38752dbc32586d0/fotor-03d1a91a0cec4542927f53c87e0599f6.jpg"
+    }
+  ]
+}
